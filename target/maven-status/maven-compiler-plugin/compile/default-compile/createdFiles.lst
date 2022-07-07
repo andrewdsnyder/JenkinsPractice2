@@ -1,0 +1,3 @@
+com\techm\jenkinsSourceCode\App.class
+com\techm\jenkinsSourceCode\Repository\UserRepository.class
+com\techm\jenkinsSourceCode\Models\User.class
